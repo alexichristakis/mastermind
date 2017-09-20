@@ -1,0 +1,2 @@
+# mastermind
+first Swift project
